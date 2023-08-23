@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62746910-48a1-41c6-a6da-f3ec07fa2c97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692669360278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692669551782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692669553191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692669817426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692670070434.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692670303035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692670459994.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692670587219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692670855932.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692671018562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692671163840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692671936056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692674047613.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692674052156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692678578009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692678582864.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692678663843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692678670242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692679129535.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692680983534.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692735027653.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692735028564.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692750633285.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692750713398.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692756010490.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692756506140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot-1692756697896.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MagentoForgotPasswordPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmokeTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SmokeTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/Screenshot-1588896304940.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ForumsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/CheckoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ForumsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/HomePageTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UJi6IuYxUIHFO4szAM8zgRi0a3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vamsikishore/Desktop/Sai/Java-Selenium-TestNG-Framework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages" />
+      <recent name="tests" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn validate" />
+      <command value="mvn install" />
+      <command value="mvn deploy" />
+      <command value="mvn clean" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/vamsikishore/Desktop/Sai/Java-Selenium-TestNG-Framework/SmokeTestSuite.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java-Selenium-TestNG-Framework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java-Selenium-TestNG-Framework" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/vamsikishore/Desktop/Sai/Java-Selenium-TestNG-Framework/SmokeTestSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFramework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/SmokeTestSuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="magentoLoginPageTest.verifyLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFramework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.magentoLoginPageTest" />
+      <option name="METHOD_NAME" value="verifyLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/vamsikishore/Desktop/Sai/Java-Selenium-TestNG-Framework/SmokeTestSuite.xml" />
+      <item itemvalue="TestNG.magentoLoginPageTest.verifyLogin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/vamsikishore/Desktop/Sai/Java-Selenium-TestNG-Framework/SmokeTestSuite.xml" />
+        <item itemvalue="TestNG.magentoLoginPageTest.verifyLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62746910-48a1-41c6-a6da-f3ec07fa2c97" name="Changes" comment="" />
+      <created>1692663913632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692663913632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/MagentoLoginPage.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
